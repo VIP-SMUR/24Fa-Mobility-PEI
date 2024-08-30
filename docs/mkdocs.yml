@@ -1,0 +1,4 @@
+site_name: CDI Documentation
+nav:
+    - Introduction: "index.md"
+    - More Information: "CDI.md"

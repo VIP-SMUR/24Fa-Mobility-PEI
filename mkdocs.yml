@@ -1,0 +1,10 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - Land-use Diversity Index: ldi.md
+  - Population Density Index: pdi.md
+  - Commercial Density Index: cdi.md
+  - Intersection Density Index: idi.md
+  - Relevant Literature: literature.md
+  - About: about.md
+theme: readthedocs
