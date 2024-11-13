@@ -1,5 +1,3 @@
-**README.md**
-
 # Pedestrian Environment Index (PEI) Implementation
 
 This project implements the Pedestrian Environment Index (PEI) methodology as developed at the University of Illinois Chicago (see the research paper: [https://www.sciencedirect.com/science/article/pii/S0966692314001343](https://www.sciencedirect.com/science/article/pii/S0966692314001343)). The PEI provides a composite measure of the walkability of an environment, incorporating the following subindices:
