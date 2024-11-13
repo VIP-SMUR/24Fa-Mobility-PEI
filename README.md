@@ -9,6 +9,18 @@ This project implements the Pedestrian Environment Index (PEI) methodology as de
 * Intersection Density Index (IDI)
 * Land-use Diversity Index (LDI)
 
+## Team
+
+| Name                  | Seniority | Major                  | Department | GitHub Handle                                                 | Topic Area                                             |
+| --------------------- | --------- | ---------------------- | ---------- | ------------------------------------------------------------- | ------------------------------------------------------ |
+| Yilun Zha             | PhD       | Planning/Urban Design  | ARCH       | [elonncha](https://github.com/elonncha)                       | [Mobility-PEI](/24fa-mobility-pei)                     |
+| C. "Albert" Le        | Sophomore | Computer Engineering   | ECE        | [balbertle](https://github.com/balbertle)                     | [Mobility-PEI](/24fa-mobility-pei)                     |
+| Chunlan Wang          | Masters   | Architecture (DC)      | ARCH       | [wang-123-xi](https://github.com/wang-123-xi)                 | [Mobility-PEI](/24fa-mobility-pei)                     |
+| Yichao Shi            | PhD       | Architecture           | ARCH       | [SHIyichao98](https://github.com/SHIyichao98)                 | [Mobility-PEI](/24fa-mobility-pei)                     |
+| Atharva Beesen        | Junior    | Computer Science       | COC        | [AtharvaBeesen](https://github.com/AtharvaBeesen)             | [Mobility-PEI](/24fa-mobility-pei)                     |
+
+
+
 **Motivation**
 
 Understanding the walkability of an environment is important for urban planning, public health initiatives, and promoting active transportation. This implementation of the PEI can be used by researchers to:
